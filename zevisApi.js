@@ -10,7 +10,7 @@ getPosts
     const user = data[0]; // מאחר וה-API מחזיר מערך, לוקחים את האובייקט הראשון
     body.innerHTML = `
                 <div class="container">
-                    <h2>📌 פרטי משתמש</h2>
+                    <h2>My details: 📌</h2>
                     <div class="card">
                         <p><strong>Name:</strong> ${user.name} ${user.lastName}</p>
                         <p><strong>Age:</strong> ${user.age}</p>
