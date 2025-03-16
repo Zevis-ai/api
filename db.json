@@ -1,28 +1,11 @@
 {
-    "name": "Zevi",
-    "lastName": "Friedman",
-    "age": 22,
-    "email": "zevi@example.com",
-    "phone": "+972-50-123-4567",
-    "address": {
-        "city": "Jerusalem",
-        "street": "Ben Yehuda 10",
-        "zipCode": "91000"
-    },
-    "interests": ["programming", "AI", "chess", "music"],
-    "isStudent": false,
-    "purchases": [
-        {
-            "item": "Laptop",
-            "price": 1200,
-            "currency": "USD",
-            "date": "2024-03-10"
-        },
-        {
-            "item": "Wireless Mouse",
-            "price": 50,
-            "currency": "USD",
-            "date": "2024-03-12"
-        }
-    ]
+  "users": [
+    {
+      "name": "Zevi",
+      "lastName": "Friedman",
+      "age": 22,
+      "email": "zevi@example.com",
+      "phone": "+972-50-123-4567"
+    }
+  ]
 }
