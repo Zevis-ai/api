@@ -1,11 +1,7 @@
 {
-  "users": [
-    {
-      "name": "Zevi",
-      "lastName": "Friedman",
-      "age": 22,
-      "email": "zevi@example.com",
-      "phone": "+972-50-123-4567"
-    }
-  ]
+    "name": "Zevi",
+    "lastName": "Friedman",
+    "age": 22,
+    "email": "zevi@example.com",
+    "phone": "+972-50-123-4567"
 }
